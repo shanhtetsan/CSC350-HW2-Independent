@@ -2,33 +2,33 @@
 
 ## Student Information
 
-- Name: [Your name]
-- Course and section: [Course and section]
-- Date: [Date]
+- Name: Shan Htet San
+- Course and section: CSC350
+- Date: September 29, 2026
 
 ## Repository Evidence
 
-- Current branch: [Branch name]
-- Personal Homework 2 GitHub URL: [Repository URL]
-- Starting `git status`: [Describe the result]
-- Starting preparation commit ID: [Short ID]
+- Current branch: main
+- Personal Homework 2 GitHub URL: https://github.com/shanhtetsan/CSC350-HW2-Independent
+- Starting `git status`: On branch main, up to date with origin/main, nothing to commit, working tree clean.
+- Starting preparation commit ID: bd125dd
 
 ## Festival Identity
 
-- Festival name: [Original festival name]
-- Location: [City, venue, or campus location]
-- Intended audience: [Audience]
-- Theme: [One-sentence theme]
+- Festival name: City Lights Festival
+- Location: New York City
+- Intended audience: Students, families, and community visitors
+- Theme: A community festival featuring entertainment, activities, and an accessible experience for visitors.
 
 ## Prediction Before the First Commit
 
 1. Where does the saved change currently live?
 
-   [Your answer]
+   The saved change currently lives in the working tree.
 
 2. Has it been staged or committed?
 
-   [Your answer]
+   No, it has not been staged or committed.
 
 ## Arrival Information
 
@@ -78,4 +78,3 @@
 5. What evidence proves that the local and GitHub repositories are synchronized at the end?
 
    [Your answer]
-
