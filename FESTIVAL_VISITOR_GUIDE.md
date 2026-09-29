@@ -52,29 +52,33 @@ Verified on GitHub using the web editor.
 
 | Checkpoint | Short commit ID | Required message |
 |---|---|---|
-| Personalized guide | [ID] | `docs: personalize festival visitor guide` |
-| Visitor access information | [ID] | `docs: add visitor access information` |
-| GitHub verification | [ID] | `docs: verify independent homework on GitHub` |
-| Final reflection | [ID] | `docs: complete independent Git reflection` |
+| Personalized guide | 343bfc0 | `docs: personalize festival visitor guide` |
+| Visitor access information | c55a121 | `docs: add visitor access information` |
+| GitHub verification | 477a226 | `docs: verify independent homework on GitHub` |
+| Final reflection | **See latest commit ID in `git log`** | `docs: complete independent Git reflection` |
 
 ## Individual Reflection
 
 1. What is the difference between saving a file and committing it?
 
-   [Your answer]
+   Saving a file stores the changes in the working tree, while committing records the staged changes in the local Git repository.
 
 2. What is the difference between `git diff` and `git diff --staged`?
 
-   [Your answer]
+   `git diff` shows unstaged changes in the working tree, while `git diff --staged` shows changes that have been staged for the next commit.
 
 3. Why did the GitHub verification sentence not appear locally before `git pull`?
 
-   [Your answer]
+   The verification sentence was committed directly on GitHub, so my local repository did not have that new commit until I used `git pull`.
 
 4. What did `-u` accomplish in `git push -u origin main`?
 
-   [Your answer]
+   The `-u` option set `origin/main` as the upstream branch for my local `main` branch, allowing later `git push` and `git pull` commands to work without specifying the remote and branch.
 
 5. What evidence proves that the local and GitHub repositories are synchronized at the end?
 
-   [Your answer]
+   A clean `git status` showing that the local branch is up to date with `origin/main`, along with matching commit history on GitHub and in `git log`, proves that the repositories are synchronized.
+
+
+
+
